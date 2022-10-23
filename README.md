@@ -8,7 +8,7 @@ This gang switch contains touch switches instead of mechanical switches.
 
 &nbsp;
 
-![image_1]()
+![image_1](https://github.com/micro9997/Touch_Type_Gang_Switch/blob/master/images/image_1.png)
 
 &nbsp;
 
@@ -20,11 +20,11 @@ This gang switch contains touch switches instead of mechanical switches.
 
 &nbsp;
 
-![image_2]()
+![image_2](https://github.com/micro9997/Touch_Type_Gang_Switch/blob/master/images/image_2.png)
 
 &nbsp;
 
-![image_3]()
+![image_3](https://github.com/micro9997/Touch_Type_Gang_Switch/blob/master/images/image_3.png)
 
 &nbsp;
 
@@ -32,10 +32,10 @@ This gang switch contains touch switches instead of mechanical switches.
 
 &nbsp;
 
-![image_4]()
+![image_4](https://github.com/micro9997/Touch_Type_Gang_Switch/blob/master/images/image_4.png)
 
 &nbsp;
 
-![image_5]()
+![image_5](https://github.com/micro9997/Touch_Type_Gang_Switch/blob/master/images/image_5.png)
 
 &nbsp;
