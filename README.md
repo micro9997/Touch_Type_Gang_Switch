@@ -12,7 +12,15 @@ This gang switch contains touch switches instead of mechanical switches.
 
 &nbsp;
 
-[*Youtube video - https://youtu.be/otknsn3lCss*](https://youtu.be/otknsn3lCss)
+*Product promotion video*
+
+[https://youtu.be/otknsn3lCss](https://youtu.be/otknsn3lCss)
+
+&nbsp;
+
+*Testing video*
+
+[https://youtu.be/viSAxl3bkQo](https://youtu.be/viSAxl3bkQo)
 
 &nbsp;
 
